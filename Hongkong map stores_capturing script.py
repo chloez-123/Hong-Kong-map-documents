@@ -12,7 +12,7 @@ import time
 import re
 
 # ✅ 替换成你的 Google Maps API Key
-API_KEY = 'AIzaSyCY9XjhoehieRMx6tt18UH2qIUFJfcxJII'
+API_KEY = 'Your Google Maps API Key'
 
 # 清理括号内容与无用说明文字
 def clean_address(address):
